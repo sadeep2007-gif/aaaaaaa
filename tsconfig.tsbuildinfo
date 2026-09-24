@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/components/Footer.tsx","./src/components/Hero.tsx","./src/components/ProductCard.tsx","./src/components/SearchFilterBar.tsx","./src/hooks/useData.ts","./src/lib/storage.ts","./src/pages/Admin.tsx","./src/pages/StoreFront.tsx"],"version":"5.9.3"}
